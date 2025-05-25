@@ -70,8 +70,9 @@ python tests/test-sphere.py
 
 ![Test esfera](tests/test-sphere.png)
 
-Próximamente se añadirá la visualización real del cerebro humano.
+Visualización real del cerebro humano.
 
+![Test esfera](src/brain_view.png)
 ---
 
 ## 📌 Próximas funciones
